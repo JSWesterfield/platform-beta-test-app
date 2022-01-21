@@ -1,1 +1,24 @@
-{}
+{
+  "apps": {
+    "gto-discovery": {
+      "name": "gto-discovery",
+      "app_id": "A02UP02DFST",
+      "team_id": "T026CHJ36",
+      "triggers": {
+        "reverse_echo_shortcut": "Ft03027SSMMF"
+      }
+    }
+  },
+  "default": "gto-discovery",
+  "dev": {
+    "WR12RP692": {
+      "name": "dev",
+      "app_id": "A02UWSFLYK0",
+      "team_id": "T026CHJ36",
+      "user_id": "WR12RP692",
+      "triggers": {
+        "reverse_echo_shortcut": "Ft02V3HSVAD9"
+      }
+    }
+  }
+}
