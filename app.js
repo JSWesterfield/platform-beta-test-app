@@ -10,6 +10,10 @@ require('dotenv').config();
 
 const app = express();
 
+app.get('/', (req, res) => {
+  
+});
+
 console.log(toDo);
 
 const hostname = '127.0.0.1';
